@@ -1,0 +1,23 @@
+apiVersion: v1
+martins:
+- person:
+    job: Developer
+    name: Martin D'vloper
+    skills:
+    - python
+    - perl
+    - pascal
+- person:
+    job: Developer
+    name: Tabitha Bitumen
+    skills:
+    - lisp
+    - fortran
+    - erlang
+- person:
+    job: Developer
+    name: Me Me
+    skills:
+    - lisp
+    - fortran
+    - erlang
